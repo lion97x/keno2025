@@ -3,6 +3,7 @@
 Fichier d'analyse du keno avec les calculs par unité
 
 # Ajout par Garlan Ngoune Nguetsa
+# Corrigé par Christophe PRUD'HOMME
 
 J'ai créé la branche dev pour mon programme.
 Mon code est compatible inter-OS
@@ -25,10 +26,10 @@ Légendes :
 
 - date_limite_haute : La date limite que vous voulez observer (facultatif)
 
-Les paramètres de date peuvent être construit de 2 manières différentes :
+Les paramètres de date peuvent être construits de 2 manières différentes :
 
 - date absolue : "JJ/MM/AAAA" (Le programme traitera toutes les dates de façon européennes)
-- date relative : 'N' suivit d'un suffixe
+- date relative : 'N' suivi d'un suffixe
 
 Le programme prend aussi en compte l'inversion de dates entre la date max et la date min
 
@@ -41,10 +42,10 @@ Les suffixes en question sont :
 
 Exemple :
 
-.\AIProject.exe dosssier 2025/04/01 05/03/2024 (Le programme traitera tous les tirages compris entre le 5 mars 2024 et le 1 avril 2025)
+.\AIProject.exe dossier 2025/04/01 05/03/2024 (Le programme traitera tous les tirages compris entre le 5 mars 2024 et le 1 avril 2025)
 
-.\AIProject.exe dosssier 45t (Le programme traitera les 45 récents tirages)
+.\AIProject.exe dossier 45t (Le programme traitera les 45 tirages les plus récents)
 
-.\AIProject.exe dosssier 2025/04/01 8t (Le programme traitera les 8 tirages après le 1 avril 2025)
+.\AIProject.exe dossier 2025/04/01 8t (Le programme traitera les 8 tirages après le 1 avril 2025)
 
-.\AIProject.exe dosssier 2a 6m (Le programme traitera les tirages sur 6 mois d'il y a 2 ans)
+.\AIProject.exe dossier 2a 6m (Le programme traitera les tirages sur 6 mois d'il y a 2 ans)
