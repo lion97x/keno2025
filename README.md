@@ -10,7 +10,7 @@ Mon code est compatible inter-OS
 
 /!\ :
     - Le programme ne fonctionne qu'en ligne de commandes pour l'instant
-    - Il se base sur les archives officiels en CSV du keno donc on ne peut lui donner un fichier quelconque en entrée
+    - Il se base sur les archives officielles en CSV du keno donc on ne peut lui donner un fichier quelconque en entrée
 
 Voici comment l'utiliser en lignes de commandes :
 
