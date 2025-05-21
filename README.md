@@ -28,7 +28,7 @@ Légendes :
 
 Les paramètres de date peuvent être construits de 2 manières différentes :
 
-- date absolue : "JJ/MM/AAAA" (Le programme traitera toutes les dates de façon européennes)
+- date absolue : "JJ/MM/AAAA" (Le programme traitera toutes les dates de façon européenne)
 - date relative : 'N' suivi d'un suffixe
 
 Le programme prend aussi en compte l'inversion de dates entre la date max et la date min
