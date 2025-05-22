@@ -4,13 +4,15 @@ Fichier d'analyse du keno avec les calculs par unité
 
 # Ajout par Garlan Ngoune Nguetsa
 # Corrigé par Christophe PRUD'HOMME
+- Modification du 22/05/2025 :
 
-J'ai créé la branche dev pour mon programme.
+Le code ne se base plus sur les fichiers officiels du keno tant que ces champs sont présents :
+"date", "heure" et "bouleN" (N de 1 à 20)
+
 Mon code est compatible inter-OS
 
 /!\ :
     - Le programme ne fonctionne qu'en ligne de commandes pour l'instant
-    - Il se base sur les archives officielles en CSV du keno donc on ne peut lui donner un fichier quelconque en entrée
 
 Voici comment l'utiliser en lignes de commandes :
 
