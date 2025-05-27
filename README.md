@@ -4,10 +4,14 @@ Fichier d'analyse du keno avec les calculs par unité
 
 # Ajout par Garlan Ngoune Nguetsa
 # Corrigé par Christophe PRUD'HOMME
-- Modification du 22/05/2025 :
+- Modification du 22/05/2025 (V1.4.1):
 
 Le code ne se base plus sur les fichiers officiels du keno tant que ces champs sont présents :
 "date", "heure" et "bouleN" (N de 1 à 20)
+
+- Modification du 27/05/2025 (V2.0.0):
+
+Le programme peut maintenant reboucler sur lui-même et filtre les échantillons en fonction de la période souhaitée par l'utilisateur
 
 Mon code est compatible inter-OS
 
