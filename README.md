@@ -13,6 +13,13 @@ Le code ne se base plus sur les fichiers officiels du keno tant que ces champs s
 
 Le programme peut maintenant reboucler sur lui-même et filtre les échantillons en fonction de la période souhaitée par l'utilisateur
 
+-  Modification du 03/06/2025 (V2.1.0):
+
+J'ai reglé le problème sur le fait que le programme ne marchait plus après la nouvelle version. (j'avoue j'aurais du faire des tests avant)
+Le programme reboucle normalement mais on ne peut pas modifier la période voulue pour l'instant
+
+# Fonctionnement principal
+
 Mon code est compatible inter-OS
 
 /!\ :
