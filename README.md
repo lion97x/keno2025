@@ -18,6 +18,10 @@ Le programme peut maintenant reboucler sur lui-même et filtre les échantillons
 J'ai reglé le problème sur le fait que le programme ne marchait plus après la nouvelle version. (j'avoue j'aurais du faire des tests avant)
 Le programme reboucle normalement mais on ne peut pas modifier la période voulue pour l'instant
 
+- Modification du 04/06/2025 (V2.1.1):
+
+Le programme reprend son fonctionnement normal et n'est plus en debug continue
+
 # Fonctionnement principal
 
 Mon code est compatible inter-OS
