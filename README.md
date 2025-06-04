@@ -26,6 +26,10 @@ Le programme reprend son fonctionnement normal et n'est plus en debug continue
 
 Le programme peut maintenant recommencer en prenant en compte de nouvelles dates
 
+- Modification du 04/06/2025 (V2.1.3):
+
+Petit changement d'esthétique
+
 # Fonctionnement principal
 
 Mon code est compatible inter-OS
